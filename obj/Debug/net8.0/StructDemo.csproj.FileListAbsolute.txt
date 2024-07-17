@@ -1,0 +1,14 @@
+D:\C#\StructDemo\obj\Debug\net8.0\StructDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\StructDemo\obj\Debug\net8.0\StructDemo.AssemblyInfoInputs.cache
+D:\C#\StructDemo\obj\Debug\net8.0\StructDemo.AssemblyInfo.cs
+D:\C#\StructDemo\obj\Debug\net8.0\StructDemo.csproj.CoreCompileInputs.cache
+D:\C#\StructDemo\bin\Debug\net8.0\StructDemo.exe
+D:\C#\StructDemo\bin\Debug\net8.0\StructDemo.deps.json
+D:\C#\StructDemo\bin\Debug\net8.0\StructDemo.runtimeconfig.json
+D:\C#\StructDemo\bin\Debug\net8.0\StructDemo.dll
+D:\C#\StructDemo\bin\Debug\net8.0\StructDemo.pdb
+D:\C#\StructDemo\obj\Debug\net8.0\StructDemo.dll
+D:\C#\StructDemo\obj\Debug\net8.0\refint\StructDemo.dll
+D:\C#\StructDemo\obj\Debug\net8.0\StructDemo.pdb
+D:\C#\StructDemo\obj\Debug\net8.0\StructDemo.genruntimeconfig.cache
+D:\C#\StructDemo\obj\Debug\net8.0\ref\StructDemo.dll
